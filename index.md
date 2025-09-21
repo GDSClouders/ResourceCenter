@@ -46,7 +46,8 @@ title: Home
 ## [Meet Camila!](./camila.md)
 **Camila, our mascot, is an agile, meticulous, and fundamental creature for her own ecosystem, immersed in the cloud. She's the visual embodiment of GDSClouders' philosophy and its approach to innovation and technology infrastructure management.**
 
-# Welcome onboard! Heres the basic GDSClouders Resources
+# Welcome onboard! 
+### Heres the basic GDSClouders Resources
 
 - [Cryptpad](https://cryptpad.fr) -- **Office Suite and Document sharing**
 - [Discord](https://discord.com) -- **Chat, Sharing, Meetings**
