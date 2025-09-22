@@ -41,7 +41,7 @@
 
 
 ## The Meaning Behind the Mascot
-Microservices and Orchestration: Like a shrimp, Camila is a small, autonomous, yet incredibly efficient organism that lives and thrives in an interconnected colony. This perfectly mirrors the philosophy of microservices: small, independent software components that work together to form a robust application. Her ability to operate within an organized group symbolizes the orchestration that manages and coordinates a myriad of "micro-elements" to ensure their harmonious and scalable operation.
+Like a shrimp, Camila is a small, autonomous, and efficient organism that thrives in a shared environment among many of its kind. While each individual acts independently, their peaceful coexistence within the same ecosystem mirrors the philosophy of microservices: small, independent software components that, when orchestrated, form a resilient and scalable application. Her ability to flourish as part of a larger group symbolizes orchestration — the layer that coordinates many autonomous “micro-elements” into a harmonious and reliable system.
 
 ## DevOps and GitOps
 Shrimp are known for their tireless "cleaning" and "searching" activity among debris. This constant operation of maintaining and optimizing their environment is a direct metaphor for the world of DevOps and GitOps. Camila handles the sphere with the code, symbolizing an entity that not only creates software but also manages, updates, and maintains it in a continuous cycle, ensuring the infrastructure is always "clean" and optimized.
