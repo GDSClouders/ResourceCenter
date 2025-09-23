@@ -65,3 +65,4 @@ title: Home
 
 ## General Guidelines
 **We welcome any operating system of your choice, as long as it’s up to date and meets today’s security standards. What matters most is that you feel comfortable with the system you’re using. Please note that support and compatibility with our tools will rely on the shared knowledge and collaboration among our team members.**
+- [Our Learning Vision](./learning-vision.md) -- **We are a continuously learning company. We don’t chase hype; we stay current by researching, experimenting, and mastering what truly matters so we can deliver with confidence.**
