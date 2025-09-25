@@ -44,7 +44,7 @@ title: Home
 </div>
 
 ## [About Us](./about-us.md)
-**We are the Center of Excellence (CoE) at [GD Clouders](https://www.gdservices.tech/) a cross-functional team of platform engineers, devops engineers and solution architects. Our purpose is simple: help product teams ship reliable, secure, and scalable solutions faster, with less toil and more confidence.**
+**We are the Center of Excellence (CoE) at [GD Services](https://www.gdservices.tech/) a cross-functional team of platform engineers, devops engineers and solution architects. Our purpose is simple: help product teams ship reliable, secure, and scalable solutions faster, with less toil and more confidence.**
 
 ## [Meet Camila!](./camila.md)
 **Camila, our mascot, is an agile, meticulous, and fundamental creature for her own ecosystem, immersed in the cloud. She's the visual embodiment of GDSClouders' philosophy and its approach to innovation and technology infrastructure management.**
