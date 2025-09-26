@@ -30,7 +30,7 @@
 
 <div class="header-grid">
   <div>
-    <img src="./images/YelLogo-GDSClouders.png" alt="Logo">
+    <img src="./images/YelLogo-GDSClouders.svg" alt="Logo">
   </div>
   <div>
     <h1>GDSClouders Resource Center</h1>
