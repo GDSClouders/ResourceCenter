@@ -1,3 +1,7 @@
+---
+layout: default
+title: About Us
+---
 <style>
   body {
     background-color: white;

@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: Learning Vision
+---
 <style>
   body {
     background-color: white;
