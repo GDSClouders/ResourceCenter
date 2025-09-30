@@ -37,7 +37,7 @@ title: About Us
     <img src="./images/YelLogo-GDSClouders.svg" alt="Logo">
   </div>
   <div>
-    <h1>GDSClouders Resource Center</h1>
+    <h1><b>GDSClouders Resource Center</b></h1>
   </div>
 </div>
 
