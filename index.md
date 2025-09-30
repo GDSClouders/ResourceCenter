@@ -50,14 +50,13 @@ title: Home
 ## [Meet Camila!](./camila.md)
 **Camila, our mascot, is an agile, meticulous, and fundamental creature for her own ecosystem, immersed in the cloud. She's the visual embodiment of GDSClouders' philosophy and its approach to innovation and technology infrastructure management.**
 
-# Welcome onboard! 
-## Heres the basic GDSClouders Resources
-
+# Welcome onboard!
+**Here you’ll find a curated list of tools and resources that we use daily in our work.**
 ## Collaboration
 - [Cryptpad](https://cryptpad.fr) -- **Office Suite and Document sharing**
 - [Discord](https://discord.com) -- **Chat, Sharing, Meetings**
 - [Taiga](https://tree.taiga.io) -- **Project Management, Tracking activities**
-- [GitHub](https://github.com/GDSClouders) -- **Our official GitHub Organization**
+- [GDSClouders GitHub](https://github.com/GDSClouders) -- **Our official GitHub Organization**
 
 ## Tools
 
@@ -66,6 +65,7 @@ title: Home
 - [wireguard](https://www.wireguard.com) -- **WireGuard® is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography**
 - [VsCode](https://code.visualstudio.com) -- **The open source AI code editor**
 - [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl-linux) -- **The Kubernetes command-line tool**
+- [crds.dev](https://doc.crds.dev) -- **CRD Api References made easy**
 
 ## General Guidelines
 **We welcome any operating system of your choice, as long as it’s up to date and meets today’s security standards. What matters most is that you feel comfortable with the system you’re using. Please note that support and compatibility with our tools will rely on the shared knowledge and collaboration among our team members.**
